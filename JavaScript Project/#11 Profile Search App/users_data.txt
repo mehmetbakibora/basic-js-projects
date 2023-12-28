@@ -1,0 +1,3 @@
+https://jsonplaceholder.typicode.com/users => users
+https://jsonplaceholder.typicode.com/todos => todo
+
